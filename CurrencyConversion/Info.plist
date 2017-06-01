@@ -37,7 +37,7 @@
 	<key>NSAppTransportSecurity</key>
 	<dict/>
 	<key>NSAllowsArbitraryLoads</key>
-	<string></string>
+	<true/>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
